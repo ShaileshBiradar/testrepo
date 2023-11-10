@@ -3,3 +3,5 @@ Junit
 SQL
 Python
 Selenium
+TestNG
+Maven
